@@ -1,0 +1,14 @@
+{
+  "name": "Fontes Personalizadas",
+  "sources": [
+    {
+      "id": "rfdragonscan",
+      "name": "RF Dragon Scan",
+      "lang": "pt-BR",
+      "version": "1.0.0",
+      "type": "manga",
+      "baseUrl": "https://rfdragonscan.com",
+      "script": "rfdragonscan/rfdragonscan.js"
+    }
+  ]
+}
